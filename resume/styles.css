@@ -1,0 +1,10 @@
+/*
+ * Custom CSS
+ */
+
+:root {
+  --bs-body-bg: var(--bs-gray-100);
+}
+.image_change{
+  border-radius: 50%;
+}
